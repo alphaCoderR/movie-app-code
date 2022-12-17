@@ -1,0 +1,4 @@
+-> Create a .env file
+-> Add the TMDB api keys into the .env file
+-> Run the command "npm install"
+-> Run the command "npm start"
